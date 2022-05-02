@@ -8,6 +8,3 @@
     <a href="https://www.instagram.com/amirrezaheydariinsta/">Amirreza Heydari</a> |
     <a href="https://iseokar.ir/">iseokar.ir</a> |
     <a href="https://clarotm.ir/">ClaroTM</a>
-
-    </body>
-    </html>
